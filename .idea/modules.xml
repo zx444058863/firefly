@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$//firefly.iml" filepath="$PROJECT_DIR$//firefly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firefly-base/firefly-base.iml" filepath="$PROJECT_DIR$/firefly-base/firefly-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firefly-common/firefly-common.iml" filepath="$PROJECT_DIR$/firefly-common/firefly-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firefly-dao/firefly-dao.iml" filepath="$PROJECT_DIR$/firefly-dao/firefly-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firefly-permission/firefly-permission.iml" filepath="$PROJECT_DIR$/firefly-permission/firefly-permission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firefly-web/firefly-web.iml" filepath="$PROJECT_DIR$/firefly-web/firefly-web.iml" />
+    </modules>
+  </component>
+</project>

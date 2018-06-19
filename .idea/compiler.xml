@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="firefly-base" />
+        <module name="firefly-common" />
+        <module name="firefly-dao" />
+        <module name="firefly-permission" />
+        <module name="firefly-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="firefly" target="1.8" />
+      <module name="firefly-base" target="1.8" />
+      <module name="firefly-common" target="1.8" />
+      <module name="firefly-dao" target="1.8" />
+      <module name="firefly-permission" target="1.8" />
+      <module name="firefly-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
